@@ -1,7 +1,10 @@
 ## 🚀 About Me
-
+Full Stack Software Engineer with a passion for Python and JavaScript. Other technical experience includes AWS, SQL/NoSQL, React, Node, Express, and more. An avid contributor to the open-source community.
 
 ## 💻 Tech Stack
+
+
+
 
 <!--
 **ChaseSizemore/ChaseSizemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
