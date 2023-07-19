@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Full Stack Software Engineer with a passion for Python and JavaScript. Other technical experience includes AWS, SQL/NoSQL, React, Node, Express, and more. An avid contributor to the open-source community.
+Full Stack Software Engineer with a passion for Python and JavaScript. Other technical experience includes AWS, SQL/NoSQL, React, Node, Express, and more. An avid contributor to the open-source community. Currently working on SeeQR, A SQL database management tool with compatibility with AWS RDS.
 
 ## 💻 Tech Stack
 
